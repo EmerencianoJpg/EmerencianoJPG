@@ -9,9 +9,6 @@ Nesta seção você encontrará as tecnologias que utilizo para dar vida aos meu
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=gdscript&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmerencianoJPG&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerencianoJPG&layout=compact&theme=transparent)
 
 ## Projetos 📄
 
