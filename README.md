@@ -17,8 +17,8 @@ Nesta seção você encontrará as tecnologias que utilizo para dar vida aos meu
 
 Aqui estão alguns dos projetos desenvolvidos, que demonstram a aplicação de conceitos teóricos e boas práticas de desenvolvimento e documentação.
 
-![Breaking The Bad](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJPG&repo=Breaking-the-Bad&theme=transparent)
-![Restaurante Universitário em Java](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Restaurante-Universitario-em-Java&theme=transparent)
+![Breaking The Bad](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJPG&repo=Breaking-the-Bad&theme=transparent&cache_bust=true)
+![Restaurante Universitário em Java](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Restaurante-Universitario-em-Java&theme=transparent&cache_bust=true)
 
 ## Contatos 📞
 
