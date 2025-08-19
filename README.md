@@ -1,4 +1,16 @@
-### Olá! Eu sou Lucas Emerenciano👋
+### Olá! Eu sou Lucas Emerenciano 👋
+- Aluno de Ciência da Computação na Faculdade Federal de Jataí (UFJ) 💻
+- 
+## Tecnologias Utilizadas
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmerencianoJPG&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerencianoJPG&layout=compact)
+
+## Contatos 📞
 
 <div> 
 
@@ -9,10 +21,6 @@
 
    </div>
 
-## Tecnologias Utilizadas
+## Projetos
 
-[![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerencianoJPG&layout=compact)
-![Top Langs]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
