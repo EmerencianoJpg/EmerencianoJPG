@@ -20,6 +20,7 @@ Aqui estão alguns dos projetos desenvolvidos, que demonstram a aplicação de c
 
 ![Breaking The Bad](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJPG&repo=Breaking-the-Bad&theme=transparent&cache_bust=true)
 ![Restaurante Universitário em Java](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Restaurante-Universitario-Com-Builder&theme=transparent&cache_bust=true)
+![Restaurante Universitário em Java](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Producao-Sonora-Use-The-Mouse&theme=transparent&cache_bust=true)
 
 ## Contatos 📞
 
