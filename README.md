@@ -10,10 +10,6 @@ Nesta seção você encontrará as tecnologias que utilizo para dar vida aos meu
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=gdscript&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=fl-studio&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmerencianoJPG&show_icons=true&theme=transparent&cache_bust=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmerencianoJPG&layout=compact&theme=transparent&cache_bust=true)
-
 ## Projetos 📄
 
 Aqui estão alguns dos projetos desenvolvidos, que demonstram a aplicação de conceitos teóricos e boas práticas de desenvolvimento e documentação.
