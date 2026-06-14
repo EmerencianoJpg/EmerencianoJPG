@@ -16,7 +16,7 @@ Aqui estão alguns dos projetos desenvolvidos, que demonstram a aplicação de c
 
 ![Breaking The Bad](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJPG&repo=Breaking-the-Bad&theme=transparent&cache_bust=true)
 ![Restaurante Universitário em Java](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Restaurante-Universitario-Com-Builder&theme=transparent&cache_bust=true)
-![Produção Sonora Use The Mouse](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Producao-Sonora-Use-The-Mouse&theme=transparent&cache_bust=true)
+![Agente de IA Para Estoque](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Agente-de-IA-para-Estoque&theme=transparent&cache_bust=true)
 ![Agenda em C](https://github-readme-stats.vercel.app/api/pin/?username=EmerencianoJpg&repo=Agenda-Pessoal-em-C-com-Funcoes-de-Produtividade&theme=transparent&cache_bust=true)
 
 ## Contatos 📞
