@@ -1,5 +1,6 @@
 ### Olá! Eu sou Lucas Emerenciano 👋
-- Aluno de Ciência da Computação na Faculdade Federal de Jataí (UFJ) 💻
+- Formado em Ciência da Computação na Faculdade Federal de Jataí (UFJ) 💻
+- Cursando Mestrado em Ciência da Computação na Faculdade Federal de Jataí (UFJ) 💻
 
 ## Tecnologias Utilizadas
 
